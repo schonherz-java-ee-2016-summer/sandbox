@@ -1,4 +1,6 @@
-Hello Vorld!
-Guten Tag!
-Helo Világ!
-Git Committ
+Git Commit
+Hello World! q
+Gutten Tag! w
+Hello Világ! e
+Git Commit r
+Barócsi Joci EE
