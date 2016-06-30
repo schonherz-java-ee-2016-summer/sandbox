@@ -1,4 +1,4 @@
-Hello World!
-Gutten Tag!
-Hello Világ!
-Git Commit
+Hello Vorld!
+Guten Tag!
+Helo Világ!
+Git Committ
