@@ -5,7 +5,7 @@ git cherry-pick C2
 git cherry-pick C3
 git branch -f master C3'
 
-rövidebben
+rovidebben
 
 git checkout master
 git cherry-pick C2
